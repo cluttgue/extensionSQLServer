@@ -1,0 +1,9 @@
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\bin\Debug\extensionSQLServerProject.dacpac
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\bin\Debug\extensionSQLServerProject.dll
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\bin\Debug\extensionSQLServerProject.pdb
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\obj\Debug\Model.xml
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\obj\Debug\refactor.xml
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\obj\Debug\postdeploy.sql
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\obj\Debug\predeploy.sql
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\obj\Debug\extensionSQLServerProject.dll
+C:\Users\s6213921\documents\visual studio 2015\Projects\extensionSQLServerProject\extensionSQLServerProject\obj\Debug\extensionSQLServerProject.pdb
